@@ -8,7 +8,7 @@ export default function Home() {
       {/* Comppnents will be created to segments the sections you see in the design like NavBar, Hero section, Body, Footer and so on */}
 
       <NavBar />
-      {/* <HeroSection /> */}
+      <HeroSection />
       {/* Other Section jus like that .... */}
     </div>
   );
